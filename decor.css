@@ -1,0 +1,58 @@
+
+a {
+text-decoration: none;   
+}
+     
+
+ul {
+float: left;
+list-style-type: none;
+margin: 20px;
+
+
+}
+
+
+li a{
+  margin: 10px;
+  font-size: 30px;
+  width: 100%;
+  text-decortation: none;   
+  display: block;
+  background-color: #E9967A;
+  color: black;
+  font-family: monospace;
+
+}
+
+
+a:hover {
+  margin: 10px;
+  font-size: 30px;
+  width: 100%;
+  text-decortation: none;   
+  display: block;
+  background-color: yellow;
+  color: black;
+  font-family: monospace;
+
+}
+
+.content{
+  font-family: monospace;
+  font-size: 20px;
+  margin: 0px;
+}
+
+body{
+background-color: #AFEEEE;
+}
+
+.big {
+
+   
+  font-family: monospace;
+  font-size: 50px;
+  margin: 0px;
+
+}
